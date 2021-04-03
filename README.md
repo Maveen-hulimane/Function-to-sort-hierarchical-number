@@ -3,6 +3,7 @@
 This is a function which takes list of shuffled hierarchical numbers (string) and then return sorted hierarchical numbers in ascending order
 
 test case:
+
      1. input:['1.2.3','1','1.4.2','1.0.0','1.1.0','1.1.1']
         outut:['1', '1.0.0', '1.1.0', '1.1.1', '1.2.3', '1.4.2']
             
